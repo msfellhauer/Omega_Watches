@@ -32,6 +32,7 @@ The goal is to take a raw Omega watch dataset and transform it into a clean, ana
 - Numeric conversions and binning
 - Generating quick summary statistics
 - Exporting cleaned data for downstream use
+- Modular and reproducible code
 
 ---
 
