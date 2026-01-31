@@ -2,7 +2,7 @@
 
 This project demonstrates my ability to take messy CSV data, clean and preprocess it using Python and pandas, and produce a polished dataset ready for analysis or external consumption.  
 
-This is a **data cleaning exercise in Python**. The initial data load came from a `.csv` dataset, imported into **Spyder** (where the cleaning occurred), then exported to an external stage where the cleaned data could be consumed.  
+This is a **data cleaning exercise in Python**. The initial data load came from a `.csv` dataset, imported into **Spyder** (where the cleaning occurred), then exported to an external stage where the cleaned data could be consumed. The main reason for moving from a raw .csv -> python data frame -> cleaned .csv was purely skill demonstration. this is a relatively small data set, which allowed for this process. I wanted to save the extra step of moving it into a database -> data frame, and just upload it into a data frame because of the size and structure of the data set.
 
 The goal is to take a raw Omega watch dataset and transform it into a clean, analyzable format, including handling missing data, truncating text columns, converting prices to numeric, and creating price tiers.
 
